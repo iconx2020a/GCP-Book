@@ -4,10 +4,10 @@ This book introduces Google cloud infrastructure as a service in systematic, and
 [Find the book here](https://www.amazon.com/dp/B09J2X3SFX) 
 
 &nbsp;&nbsp;&nbsp;&nbsp;
-##
+
 <img width="330" alt="cover2023" src="https://user-images.githubusercontent.com/64724621/212282940-2f1cd521-d586-4f65-b30f-1ad5092839f6.png">
 
-##
+
 &nbsp;&nbsp;&nbsp;&nbsp;: 
 
 [Find the code for the book here](https://github.com/iconx2020a/medicoms)
