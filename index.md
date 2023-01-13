@@ -7,38 +7,18 @@ This book introduces Google cloud infrastructure as a service in systematic, eas
 
 <!-- toc -->
 
-## Heading
+## Introduction
 
-This is an h1 heading
+## Chapter 1: Google Cloud Infrastructure
 
-### Sub-heading
+### Case Study
+#### Sign-Up for a Free GCP Account
+#### Google Cloud Platform Dashboard
+#### The Billing Menu
+#### APIs and Services
+#### Other services
+#### Google Cloud Shell
+#### Google cloud core services
+### Medicoms Web Application Implementation
+#### Projects
 
-This is an h2 heading
-
-#### Sub-sub-heading
-
-This is an h3 heading
-
-## Heading
-
-This is an h1 heading
-
-### Sub-heading
-
-This is an h2 heading
-
-#### Sub-sub-heading
-
-This is an h3 heading
-
-## Heading
-
-This is an h1 heading
-
-### Sub-heading
-
-This is an h2 heading
-
-#### Sub-sub-heading
-
-This is an h3 heading
