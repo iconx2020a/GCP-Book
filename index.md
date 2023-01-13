@@ -5,7 +5,7 @@ This book introduces Google cloud infrastructure as a service in systematic, eas
 ##
 The book covers the following topics:
 ##
-## Introduction
+
 
 ## Chapter 1: Google Cloud Infrastructure
 
